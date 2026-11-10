@@ -1,0 +1,8 @@
+# Meu primeiro programa Sekai
+cuts "Bem-vindo!"
+tag vida = 100
+tag dano = 10
+calc vida - dano
+meet vida 0
+sleep 500
+cuts "Fim!"
